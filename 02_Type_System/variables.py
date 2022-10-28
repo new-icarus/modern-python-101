@@ -1,15 +1,17 @@
 # Declaring a new variable called as 'box'
-box = 'ballons'
+box = "ballons"
 print(box)
 
-#reassignment
-box = 'crackers'
+# reassignment
+box = "crackers"
 print(box)
 
-#reassignment
-box = 'hats'
+# reassignment
+box = "hats"
 print(box)
 
-#reasignment to different type
+# reasignment to different type
 box = 2
 print(box)
+
+# python is dynamically typed
